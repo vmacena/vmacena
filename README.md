@@ -1,6 +1,6 @@
 # Hello! My name is Vinicius Macena! 👋
 
-## Full Stack Developer | Microservices, RESTful APIs, DevOps, and Cloud Computing
+## Full Stack Developer | Microservices and RESTful APIs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vmacena/)
 
