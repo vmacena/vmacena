@@ -35,8 +35,4 @@ Undergraduate student in Analysis and Systems Development at the Instituto Feder
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-### Repo Card
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vmacena&repo=nome-do-repositorio&theme=dark)](https://github.com/vmacena/nome-do-repositorio)
