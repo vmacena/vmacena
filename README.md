@@ -14,9 +14,12 @@ Undergraduate student in Analysis and Systems Development at the Instituto Feder
 
 ### GitHub Stats
 
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmacena&hide_rank=true&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmacena&hide_progress=true&theme=dark)
+<a href="">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=vmacena&hide_rank=true&show_icons=true&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmacena&hide_progress=true&theme=dark" />
+    </p>
+</a>
 
 ---
 
